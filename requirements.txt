@@ -1,0 +1,2 @@
+apt install pip -y
+pip install flask flask-socketio flask-login docker paramiko psutil python-dotenv email-validator flask_limiter
