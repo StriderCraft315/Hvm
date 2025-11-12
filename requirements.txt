@@ -1,2 +1,1 @@
-pip install flask flask-socketio flask-login flask-limiter docker paramiko python-dotenv werkzeug psutil ecdsa requests email-validator pyopenssl cryptography
-pip install flask flask-socketio flask-login docker paramiko psutil python-dotenv email-validator flask_limiter
+pip install flask flask-socketio flask-login flask-limiter docker paramiko python-dotenv werkzeug psutil ecdsa requests email-validator pyopenssl cryptography docker paramiko psutil python-dotenv email-validator flask_limiter
